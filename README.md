@@ -29,5 +29,3 @@ This is a web app where you can write and run JavaScript code. It has a code edi
 6. Use the other buttons to copy, save (not really saving a file), and lock/unlock the editor.
 
 You can also see how it works [here](https://anujkesarwani1.github.io/edvanta-assignment/).
-
-Happy coding!
