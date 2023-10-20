@@ -1,31 +1,33 @@
 # Code Editor Web App
 
-This is a web application that allows you to write and execute JavaScript code. It includes a code editor, buttons for copying code, saving code, locking/unlocking the editor, and running the code.
+This is a web app where you can write and run JavaScript code. It has a code editor and some useful features.
 
 ## Features
 
-- **Code Editor**: A powerful code editor powered by Ace.js, themed for JavaScript.
+- **Code Editor**: A special text box for writing code.
 
-- **Copy Code**: Easily copy your code to the clipboard using the "Copy" button.
+- **Copy Code**: A button to quickly copy your code.
 
-- **Save Code**: The "Save" button doesn't have a real save function but alerts that the code is saved for reference.
+- **Save Code**: The "Save" button isn't for saving files, it just tells you that your code is saved.
 
-- **Lock/Unlock Editor**: Use the "Lock" button to make the editor read-only or unlock it for editing.
+- **Lock/Unlock Editor**: Use "Lock" to prevent changes or "Unlock" to edit your code.
 
-- **Run Code**: Execute the JavaScript code you've written by clicking the "Run" button. You'll receive an alert with the result or any errors.
+- **Run Code**: Press "Run" to see the result or any errors from your code.
 
-## How to Run the Project
+## How to Use
 
-1. Clone or download this project's source code.
+1. Download or clone this project.
 
-2. Open the project folder in your preferred code editor.
+2. Open it in your code editor.
 
-3. Launch a development server or simply open the `index.html` file in your web browser to use the application.
+3. To start, open the `index.html` in your web browser.
 
-4. Write your JavaScript code in the editor.
+4. Write JavaScript code in the editor.
 
-5. Click the "Run" button to execute your code and see the results.
+5. Click "Run" to see what your code does.
 
-6. Use the other buttons to copy, save, and lock/unlock the editor as needed.
+6. Use the other buttons to copy, save (not really saving a file), and lock/unlock the editor.
 
-You can see the live output of this project [here](https://anujkesarwani1.github.io/edvanta-assignment/)
+You can also see how it works [here](https://anujkesarwani1.github.io/edvanta-assignment/).
+
+Happy coding!
